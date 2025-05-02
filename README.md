@@ -52,9 +52,11 @@ while True:
     f.close() 
     print('Done sending') 
     conn.send('Thank you for connecting'.encode()) 
-    conn.close() 
-    ```
-## OUPUT
+    conn.close()
+```
+
+
+## OUTPUT
 ![Screenshot 2025-05-02 185150](https://github.com/user-attachments/assets/9b377a57-7d35-4f66-a4f8-f11ab08e6e9c)
 
 ## RESULT
