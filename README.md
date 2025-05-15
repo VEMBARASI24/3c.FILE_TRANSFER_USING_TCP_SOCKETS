@@ -57,7 +57,8 @@ while True:
 
 
 ## OUTPUT
-![Screenshot 2025-05-02 185150](https://github.com/user-attachments/assets/9b377a57-7d35-4f66-a4f8-f11ab08e6e9c)
+![Screenshot (284)](https://github.com/user-attachments/assets/f1a71ad8-f116-4fa1-a4f0-bc0aec8f0d4e)
+
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
